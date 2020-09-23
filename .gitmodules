@@ -1,0 +1,21 @@
+[submodule "mern-stack/full-auth"]
+	path = mern-stack/full-auth
+	url = https://github.com/wisnupratama24/full-auth.git
+[submodule "mern-stack/staycation-bwa"]
+	path = mern-stack/staycation-bwa
+	url = https://github.com/wisnupratama24/staycation-bwa.git
+[submodule "javascript/pallete-color"]
+	path = javascript/pallete-color
+	url = https://github.com/wisnupratama24/pallete-color.git
+[submodule "school/visitsemarang"]
+	path = school/visitsemarang
+	url = https://github.com/wisnupratama24/visitsemarang.git
+[submodule "javascript/aplikasi-kampus-java-neatbeans"]
+	path = javascript/aplikasi-kampus-java-neatbeans
+	url = https://github.com/wisnupratama24/aplikasi-kampus-java-neatbeans.git
+[submodule "mern-stack/furniture-website"]
+	path = mern-stack/furniture-website
+	url = https://github.com/wisnupratama24/furniture-website.git
+[submodule "school/template-web-furniture"]
+	path = school/template-web-furniture
+	url = https://github.com/wisnupratama24/template-web-furniture.git
