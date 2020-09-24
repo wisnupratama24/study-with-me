@@ -19,3 +19,6 @@
 [submodule "school/template-web-furniture"]
 	path = school/template-web-furniture
 	url = https://github.com/wisnupratama24/template-web-furniture.git
+[submodule "tailwind-css"]
+	path = tailwind-css
+	url = https://github.com/wisnupratama24/tailwind-css.git
